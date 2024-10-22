@@ -1,0 +1,19 @@
+.card-details{
+    margin: 5px;
+    width: 500px;
+    height: 250px;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(87,108,117,1) 0%, rgba(37,50,55,1) 100.2% );
+    color: #dfd8d8;
+    border-radius: 12px;
+    text-align: center;
+
+    h2{
+        text-align: justify;
+        margin-left: 20px;
+    }
+
+    p{
+        text-align: justify;
+        margin-left: 20px;
+    }
+}
